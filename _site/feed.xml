@@ -6,9 +6,62 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 24 Dec 2015 12:57:53 +0800</pubDate>
-    <lastBuildDate>Thu, 24 Dec 2015 12:57:53 +0800</lastBuildDate>
+    <pubDate>Tue, 08 Mar 2016 10:27:13 +0800</pubDate>
+    <lastBuildDate>Tue, 08 Mar 2016 10:27:13 +0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Swift &amp;&amp; Object-C</title>
+        <description>&lt;p&gt;Swift语言本身并没有多线程支持，因此要使用多线程还是要调用NSThread、GCD等&lt;/p&gt;
+
+&lt;p&gt;Object-C中一个很方便的代码互斥方式@synchronized在swift中不支持，因此要实现代码互斥需要自己使用锁&lt;/p&gt;
+
+&lt;p&gt;Swift中可以自定义操作符，自定义一个操作符需要两个要素：&lt;/p&gt;
+
+&lt;p&gt;操作符特性描述，包括：操作符位置 prefix、infix、postfix等，操作符的结合性left、right以及操作符的优先级；
+操作符功能函数，参数和返回值需要与操作符特性一致，比如 prefix的操作符接受一个参数，返回一个值；&lt;/p&gt;
+
+&lt;p&gt;在Swift中，函数是first-class，也就是说函数可以作为参数传入也可以作为返回值返回，也可以给变量赋值。函数式编程是一种很强大、很灵活的思想，在Object-C中也有block等函数式编程思想，但并不明显，在Swift中这一点得到了强化。&lt;/p&gt;
+
+&lt;p&gt;没有多线程：可以用 GCD 的 API，也被移植到 Swift 了。
+没有私有属性：很多语言都没有，都靠使用者自觉。
+只能与 Objective-C 互动：C 也是可以的。
+没有异常处理：Objective-C 里基本也不用&lt;/p&gt;
+</description>
+        <pubDate>Wed, 06 Jan 2016 23:55:20 +0800</pubDate>
+        <link>http://yourdomain.com/2016/01/06/Swift&&Object-C.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2016/01/06/Swift&&Object-C.html</guid>
+        
+        <category>Coding</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Mr Six</title>
+        <description>&lt;!--#这是测试用的###--&gt;
+&lt;!--阿诚堪称全剧功能最多的角色，除了在汪伪政府国民党军统和地下党，这三&lt;br /&gt;重无间道里游走，还用瘦弱的小肩膀将管家、理财顾问、羽毛球教练、职业打手、专业采购等多重身份一肩抗下。--&gt;
+&lt;!--对外温良智勇舞姿俏，对内画眼诗心二胡妙。--&gt;
+&lt;!--对外低薪忠犬小文秘，对内三菜一汤童养媳。--&gt;
+&lt;!--对外玲珑剔透小司机，对内专治明台老中医。--&gt;
+&lt;!--对外炸楼暗杀小藏獒，对内赚钱养家受气包。--&gt;
+&lt;!--对外美貌如花小保镖，对内睡衣早餐阿诚嫂。--&gt;
+&lt;!--这是一个[link](http://www.baidu.com &quot;title&quot;)--&gt;
+&lt;p&gt;元旦假期的最后一天，在精神状态不好的状态下看了老炮儿（Mr Six），由于准备的不是很充分，还迟到了将近十分钟，没看成开头，进影院的时候，剧情已经到了六爷为闷三儿筹钱保释，在问霞姨拿钱了，对话京味十足，字幕君都给翻译了，大概明白是什么意思。在监狱门口，闷三儿说了在监狱里头有吃有喝有朋友，看到这儿就已经知道他们的情谊有多深，电影里没讲二人的过往，但未删减版中描述了二人相识的过程，六爷曾经在一次茬架中救了闷三儿，从此闷三儿就把六爷当做生死兄弟了。其实看到这儿就已经知道六爷过去的辉煌了，接一来六爷不管做什么，都毫不令人惊奇。&lt;/p&gt;
+
+&lt;p&gt;不出所料，在六爷打听到儿子被绑以后，迅速出手，找到了绑架儿子的“三环十二少”，这都归功于六爷少年时闯下的名头。然后单刀赴会，其中教训后辈的话令人印象深刻，其中“规矩”二字尤其重要，可以说是六爷闯江湖的准则。在与“三环十二少”理论时，丝毫不见六爷的霸气，但却是一副“怕事不惹事，出事敢担事”的从容，挨了一巴掌要记在心里，打人的总要受伤的。之后六爷留下了三天凑十万，一手交钱，一手交人的豪言，顺便问了一下打自己脸的小混混名字，就这么走了。&lt;/p&gt;
+
+&lt;p&gt;之后便是艰难的借钱过程了，只能说一句世态炎凉。那些曾经共患难的老哥们，心里有苦的，勉强糊口的，虛情的，假意的，都是生活中真实写照。片中对老炮向发迹的洋火儿借钱描述的时候最长。洋火儿如今已是富商了，与落魄的老朋友已是越走越远，一根烟还没点完就要轰人。其实六爷本来是要来借钱的，但是去了以后，觉得大家已经不在一个层次了，没有开口的必要了，想叙叙旧而已，但是结果比自己想象的还要惨。这里看不见悲与喜，只有一个转身，一句“你真仗义”！&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 23 Dec 2015 22:55:20 +0800</pubDate>
+        <link>http://yourdomain.com/2015/12/23/test.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/12/23/test.html</guid>
+        
+        <category>Reading</category>
+        
+        
+      </item>
     
       <item>
         <title>TencentOpenApi</title>
