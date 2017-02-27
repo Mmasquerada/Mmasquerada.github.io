@@ -6,9 +6,28 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 30 Jan 2017 17:40:19 +0800</pubDate>
-    <lastBuildDate>Mon, 30 Jan 2017 17:40:19 +0800</lastBuildDate>
+    <pubDate>Mon, 27 Feb 2017 16:27:14 +0800</pubDate>
+    <lastBuildDate>Mon, 27 Feb 2017 16:27:14 +0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>struct&amp;class</title>
+        <description>&lt;p&gt;C++语言继承了C语言的struct，并且加以扩充。在C语言中struct是只能定义数据成员，而不能定义成员函数的。而在C++中，struct类似于class，在其中既可以定义数据成员，又可以定义成员函数。&lt;/p&gt;
+
+&lt;p&gt;在C++中，struct与class基本是通用的，唯一不同的是如果使用class关键字，类中定义的成员变量或成员函数默认都是private属性的，而采用struct关键字，结构体中定义的成员变量或成员函数默认都是public属性的。&lt;/p&gt;
+
+&lt;p&gt;在C++中，没有抛弃C语言中的struct关键字，其意义就在于给C语言程序开发人员有一个归属感，并且能让C++编译器兼容以前用C语言开发出来的项目。&lt;/p&gt;
+</description>
+        <pubDate>Sat, 25 Feb 2017 23:39:40 +0800</pubDate>
+        <link>http://yourdomain.com/c++/2017/02/25/difference-between-c++&c-in-struct&class.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/c++/2017/02/25/difference-between-c++&c-in-struct&class.html</guid>
+        
+        <category>C++</category>
+        
+        
+        <category>C++</category>
+        
+      </item>
     
       <item>
         <title>Journey to the west-Ⅱ</title>
